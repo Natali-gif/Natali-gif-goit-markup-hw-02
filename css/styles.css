@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.hero{
+    background-color: #2E2F42;
+    color: white;
+    width: 1,440px;
+    height: 600px;
+    text-align: center;
+    padding-top: 72px;
+}
+h1{
+    width: 496;
+    height: 120;
+    top: 260px;
+    left: 472px;
+    opacity: 1;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+    font-weight: 700;
+}
+button{
+    width: 169;
+    height: 56;
+    top: 428px;
+    left: 636px;
+    opacity: 1;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    gap: 10px;
+    border-radius: 4px;
+    background-color: #4D5AE5;
+    color: white;
+    cursor: pointer;
+}
+.advantages ul {
+  display: flex;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  position: absolute; 
+  top: 792px;
+  left: 156px;
+}
+.advantages li {
+  width: 264px;
+  height: 104px;
+}
+
+}
+
+
+
