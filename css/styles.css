@@ -4,13 +4,6 @@ body {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
-  margin: 0;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .logo {
@@ -29,10 +22,7 @@ header {
 }
 
 .menu {
-  display: flex;
-  gap: 40px;
   list-style: none;
-  margin: 0;
 }
 
 .nav-link {
@@ -42,7 +32,6 @@ header {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em; 
-  transition: color 0.3s;
 }
 
 
@@ -56,16 +45,13 @@ header {
 }
 
 .address-info ul {
-  display: flex;
   list-style: none;
-  margin: 0;
 }
 
 .contact-link {
   text-decoration: none;
   color: #434455;
   letter-spacing: 0.02em; 
-  transition: color 0.3s;
 }
 
 
@@ -98,7 +84,6 @@ header {
   font-size: 16px;
   line-height: 1.5;
   cursor: pointer;
-  transition: background-color 0.3s;
   font-family: "Roboto", sans-serif;
   letter-spacing: 0.04em; 
 }
@@ -110,17 +95,9 @@ header {
 
 /* Advantages */
 .advantages ul {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
   list-style: none;
-  margin: 120px auto;
-  max-width: 1128px;
 }
 
-.advantages li {
-  width: 264px;
-}
 
 .name {
   font-weight: 500;
@@ -135,14 +112,11 @@ header {
     letter-spacing: 0.02em;
     color: #434455;
     line-height: 1.5;
-
-
 }
 /* Team */
 .team {
   background-color: #f4f4fd;
   text-align: center;
-  padding: 120px 0;
 }
 
 .title {
@@ -156,24 +130,15 @@ header {
 }
 
 .team ul {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
   list-style: none;
-  margin: 0;
 }
 
 .team li {
   background: #ffffff;
-  border-radius: 4px;
-  padding-bottom: 32px;
 }
 
 .foto {
-  width: 264px;
-  height: 260px;
   object-fit: cover;
-  margin-bottom: 16px;
 }
 .description-team{
      letter-spacing: 0.02em; 
@@ -190,7 +155,6 @@ header {
 /* Portfolio */
 .portfolio {
   text-align: center;
-  padding: 120px 0;
 }
 
 .portfolio h2 {
@@ -198,29 +162,17 @@ header {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
-  margin-bottom: 72px;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
 .portfolio ul {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
   list-style: none;
-  margin: 0 auto;
-  max-width: 1128px;
 }
 
 .portfolio li {
   border: 1px solid #e7e9fc;
-  border-radius: 4px;
-  overflow: hidden;
   background: #fff;
-}
-
-.portfolio img {
-  height: 300px;
 }
 
 .portfolio h3 {
@@ -261,8 +213,6 @@ footer {
 }
 .footer-text {
   letter-spacing: 0.02em;
-  max-width: 264px;
-  margin-top: 16px;
   font-size: 16px;
   line-height: 1.5;
   color: #f4f4fd;
