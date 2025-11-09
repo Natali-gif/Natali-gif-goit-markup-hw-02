@@ -226,7 +226,7 @@ footer {
   padding: 100px 156px;
 }
 
-.logo2 {
+.logo-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -237,7 +237,7 @@ footer {
   color: #4d5ae5;
 }
 
-.logo2 span {
+.logo-footer span {
   color: #f4f4fd;
 }
 .footer-text {
