@@ -129,15 +129,19 @@ header {
   width: 264px;
 }
 
-.advantages h3 {
+.name-adv {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
   margin-bottom: 8px;
+  letter-spacing: 0.02em;
 }
 .description-adv{
     font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+
 }
 /* Team */
 .team {
@@ -177,7 +181,7 @@ header {
   object-fit: cover;
   margin-bottom: 16px;
 }
-.description3{
+.description-team{
      letter-spacing: 0.02em; 
      font-size: 16px; 
 }
