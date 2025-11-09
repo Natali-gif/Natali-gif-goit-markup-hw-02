@@ -131,7 +131,9 @@ header {
   color: #2e2f42;
   margin-bottom: 8px;
 }
-
+.advantages{
+    font-size: 16px;
+}
 /* Team */
 .team {
   background-color: #f4f4fd;
