@@ -23,14 +23,13 @@ header {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+  color: #4d5ae5; 
 }
 
 .logo-black {
   color: #2e2f42;
 }
-.logo-blue {
-  color: #4d5ae5;
-}
+
 .menu {
   display: flex;
   gap: 40px;
@@ -39,20 +38,22 @@ header {
   padding: 0;
 }
 
-.menu a {
+.nav-link {
   text-decoration: none;
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em; 
   transition: color 0.3s;
 }
 
-.menu a:hover,
-.menu a:focus {
+
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
+
 
 .address-info {
   font-style: normal;
@@ -66,11 +67,13 @@ header {
   padding: 0;
 }
 
-.address-info a {
+.contact-link {
   text-decoration: none;
   color: #434455;
+  letter-spacing: 0.02em; 
   transition: color 0.3s;
 }
+
 
 .address-info a:hover,
 .address-info a:focus {
