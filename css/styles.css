@@ -22,14 +22,15 @@ header {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
   text-decoration: none;
 }
 
 .logo-black {
   color: #2e2f42;
 }
-
+.logo-blue {
+  color: #4d5ae5;
+}
 .menu {
   display: flex;
   gap: 40px;
