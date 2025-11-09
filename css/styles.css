@@ -53,10 +53,6 @@ header {
 .nav-link:focus {
   color: #404bbf;
 }
-.first-link:hover,
-.first-link:focus {
-  color: #404bbf;
-}
 
 .address-info {
   font-style: normal;
@@ -82,10 +78,7 @@ header {
 .address-info a:focus {
   color: #404bbf;
 }
-.address-info .first-link:hover,
-.address-info .first-link:focus {
-  color: #404bbf;
-}
+
 
 /* Hero */
 .hero {
