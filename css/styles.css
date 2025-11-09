@@ -213,12 +213,15 @@ header {
   font-size: 20px;
   color: #2e2f42;
   margin: 16px;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
 }
 
 .portfolio p {
   font-size: 16px;
   color: #434455;
   margin: 0 16px 16px 16px;
+  letter-spacing: 0.02em;
 }
 
 /* Footer */
