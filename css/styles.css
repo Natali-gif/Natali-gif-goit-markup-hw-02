@@ -181,6 +181,8 @@ header {
   line-height: 1.11;
   color: #2e2f42;
   margin-bottom: 72px;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .portfolio ul {
