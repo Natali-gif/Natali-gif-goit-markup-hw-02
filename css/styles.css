@@ -145,6 +145,8 @@ header {
   line-height: 1.11;
   color: #2e2f42;
   margin-bottom: 72px;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .team ul {
@@ -167,6 +169,17 @@ header {
   height: 260px;
   object-fit: cover;
   margin-bottom: 16px;
+}
+.team p{
+     letter-spacing: 0.02em; 
+     font-size: 16px; 
+}
+.team h3{
+    color:  #2e2f42;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 /* Portfolio */
