@@ -12,6 +12,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 24px 156px;
+
 }
 
 .logo {
@@ -25,7 +26,7 @@ header {
   text-decoration: none;
 }
 
-.logo span {
+.logo-black {
   color: #2e2f42;
 }
 
