@@ -155,7 +155,7 @@ header {
   padding: 120px 0;
 }
 
-.team h2 {
+.title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -180,7 +180,7 @@ header {
   padding-bottom: 32px;
 }
 
-.team img {
+.foto {
   width: 264px;
   height: 260px;
   object-fit: cover;
@@ -190,7 +190,7 @@ header {
      letter-spacing: 0.02em; 
      font-size: 16px; 
 }
-.team h3{
+.name-port{
     color:  #2e2f42;
     letter-spacing: 0.02em;
     line-height: 1.2;
